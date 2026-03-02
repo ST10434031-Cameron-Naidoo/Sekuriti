@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o0A+VIJtupE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\27609\\Desktop\\Sekuriti\\Sekuriti.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\27609\\.nuget\\packages\\system.speech\\10.0.3\\system.speech.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
