@@ -17,14 +17,19 @@ namespace Sekuriti
             sekuritiVoiceover = new SpeechSynthesizer();
             //configure the audio output
             sekuritiVoiceover.SetOutputToDefaultAudioDevice();
+            sekuritiVoiceover.SelectVoice("Microsoft Zira Desktop");
         }
         public void greet()
         {
             //Welcome the user
-            sekuritiVoiceover.Speak("Hi there my name is security. your local cybersecurity chatbot. I'm here to help you stay sharp on Mzansi's digital streets. Ask me about scams, phishing, safe passwords, and more.");
-            
+            sekuritiVoiceover.Speak("Hi there my name is security. your local cybersecurity chat bot. I'm here to help you stay sharp on Mzansi's digital streets. Ask me about scams, phishing, safe passwords, and more.");
+
         }
 
+        public void speak(string speech)
+        {
+            sekuritiVoiceover.Speak(speech);
+        }
 
     }
 }

@@ -16,3 +16,4 @@ C:\Users\27609\Desktop\Sekuriti\obj\Debug\net8.0\refint\Sekuriti.dll
 C:\Users\27609\Desktop\Sekuriti\obj\Debug\net8.0\Sekuriti.pdb
 C:\Users\27609\Desktop\Sekuriti\obj\Debug\net8.0\Sekuriti.genruntimeconfig.cache
 C:\Users\27609\Desktop\Sekuriti\obj\Debug\net8.0\ref\Sekuriti.dll
+C:\Users\27609\Desktop\Sekuriti\obj\Debug\net8.0\Sekuriti.sourcelink.json

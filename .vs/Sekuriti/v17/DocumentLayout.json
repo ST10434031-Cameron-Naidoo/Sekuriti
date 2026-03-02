@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\27609\\Desktop\\Sekuriti\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|c:\\users\\27609\\desktop\\sekuriti\\voice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|solutionrelative:voice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|c:\\users\\27609\\desktop\\sekuriti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|c:\\users\\27609\\desktop\\sekuriti\\voice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|solutionrelative:voice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|c:\\users\\27609\\desktop\\sekuriti\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C258D70-5CA1-417D-B4C4-98CA0AAD0E6C}|Sekuriti.csproj|c:\\users\\27609\\desktop\\sekuriti\\sekuriti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,39 +42,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\Sekuriti\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\Sekuriti\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-02T15:24:21.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Voice.cs",
               "DocumentMoniker": "C:\\Users\\27609\\Desktop\\Sekuriti\\Voice.cs",
               "RelativeDocumentMoniker": "Voice.cs",
               "ToolTip": "C:\\Users\\27609\\Desktop\\Sekuriti\\Voice.cs",
               "RelativeToolTip": "Voice.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T08:31:13.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sekuriti",
+              "DocumentIndex": 3,
+              "Title": "Sekuriti.csproj",
               "DocumentMoniker": "C:\\Users\\27609\\Desktop\\Sekuriti\\Sekuriti.csproj",
               "RelativeDocumentMoniker": "Sekuriti.csproj",
               "ToolTip": "C:\\Users\\27609\\Desktop\\Sekuriti\\Sekuriti.csproj",
               "RelativeToolTip": "Sekuriti.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-02T08:30:54.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T08:30:54.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\27609\\Desktop\\Sekuriti\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\27609\\Desktop\\Sekuriti\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAADUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T08:30:51.132Z",
               "EditorCaption": ""
